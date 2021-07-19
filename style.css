@@ -26,7 +26,7 @@ body{
 }
 
 .container{
-  perspective: 2000px;
+  perspective: 1000px;
   margin-bottom: 30px;
 }
 
